@@ -1,7 +1,9 @@
 # Simple ChatBot with Python and Google Search
-Build a simple ChatBot with Python that uses Google Search as its brain. The app consists of a Python 3 server and a web interface.
+Build a simple ChatBot with Python that uses a webscraper which runs on an algorithm 
+to perform a Google Search of a user’s query, scrape the text from the first result, 
+and reply to the user with the first sentence of that page’s text.
+The app consists of a Python 3 server and a web interface.
 
-Simple Python ChatBot tutorial post on my Medium
 
 ## Install
 Clone the repo using command line and cd into the app.
