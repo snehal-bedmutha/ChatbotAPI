@@ -2,7 +2,7 @@
 import requests
 import string
 from lxml import html
-from googleSearch import googleSearch
+from google_search import googleSearch
 from bs4 import BeautifulSoup
 import random
 

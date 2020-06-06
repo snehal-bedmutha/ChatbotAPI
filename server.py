@@ -1,6 +1,6 @@
 import http.server
 import socketserver
-from Chatbot_GoogleSearch import chatbot_query
+from chatbot_api import chatbot_query
 
 PORT = 8080
 DIRECTORY = 'public'
