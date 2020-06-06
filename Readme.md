@@ -1,9 +1,9 @@
-## Simple ChatBot with Python and Google Search
+# Simple ChatBot with Python and Google Search
 Build a simple ChatBot with Python that uses Google Search as its brain. The app consists of a Python 3 server and a web interface.
 
 Simple Python ChatBot tutorial post on my Medium
 
-# Install
+## Install
 Clone the repo using command line and cd into the app.
 
 ```pip install -r requirements.txt```
