@@ -7,7 +7,8 @@ Simple Python ChatBot tutorial post on my Medium
 Clone the repo using command line and cd into the app.
 
 ```pip install -r requirements.txt```
-Run
+
+## Run
 
 ```python server.py
 ```
